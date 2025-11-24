@@ -27,7 +27,7 @@ Toronto, ON | Actively interviewing for Data Analyst / Operations Analyst / Busi
 
 ### Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esosadaanalyst/) 
-esomwanghe@gmail.com • +1 (437) 616-3860 • Brampton, Canada
+esomwanghe@gmail.com • Brampton, Canada
 
 
 

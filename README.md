@@ -23,11 +23,11 @@ Toronto, ON | Actively interviewing for Data Analyst / Operations Analyst / Busi
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-000000?style=flat)
+![Lean Methodology](https://img.shields.io/badge/Lean_Six_Sigma-000000?style=flat)
 
 ### Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esosa-omwanghe) 
-esomwanghe@gmail.com • +1 (437) 616-3860 • Toronto, Canada
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esosadaanalyst/) 
+esomwanghe@gmail.com • +1 (437) 616-3860 • Brampton, Canada
 
 Portfolio last updated: November 2025  
 ⭐ Star this repo if you like it!

@@ -13,7 +13,7 @@ Toronto, ON | Actively interviewing for Data Analyst / Operations Analyst / Busi
 |--------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------|----------------------------------------------------------------------|
 | Customer Churn Prediction            | Logistic Regression (82% accuracy) + full ETL pipeline + executive Tableau dashboard       | Python • Pandas • Scikit-learn • Tableau| [View →](projects/customer-churn-prediction)                        |
 | Google Stock Price Forecasting       | ARIMA vs XGBoost vs LSTM (LSTM won) + interactive 90-day forecasting dashboard            | Python • TensorFlow • Tableau          | [View →](https://github.com/esosaomwanghe/Google-Stock-Forecasting)                        |
-| Hospital Performance Dashboard       | Interactive healthcare KPI dashboard with forecasting, LODs & actionable insights          | Tableau • SQL                           | [View →](projects/hospital-performance-dashboard)                  |
+| Hospital Performance Dashboard       | Interactive healthcare KPI dashboard with forecasting, LODs & actionable insights          | Tableau • SQL                           | [View →](https://github.com/esosaomwanghe/Hospital-Performance-Executive-Dashboard)                  |
 | Recipe Rating Prediction             | 91% accuracy predicting 5-star reviews despite 85% class imbalance                         | Python • Scikit-learn                   | [View →](projects/recipe-review-analysis)                          |
 
 ### Technical Skills
